@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java Coffee Order</string>
+    <string name="hint_name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="order">Order</string>
+    <string name="whipped_cream">Whipped Cream (+1 USD)</string>
+    <string name="chocolate">Chocolate (+2 USD)</string>
+    <string name="quantity">Quantity</string>
+    <string name="toast_increment">You cannot add quantity above 100!</string>
+    <string name="toast_decrement">You cannot add quantity below 1!</string>
+    <string name="email_subject">Orde from: </string>
+    <string name="cust_name">"Name: "</string>
+    <string name="cust_quantity">\nQuantity: </string>
+    <string name="cust_chooseWhippedCream">\nWhipped Cream Topping: </string>
+    <string name="cust_chooseChocolate">\nChocolate Topping: </string>
+    <string name="cust_total">\nTotal: </string>
+    <string name="currency">\nUSD</string>
+    <string name="thank_you">\nThank You!</string>
+</resources>
